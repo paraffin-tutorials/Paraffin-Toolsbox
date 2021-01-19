@@ -1,5 +1,5 @@
 
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
+![logo](https://cdn.discordapp.com/attachments/799297746217467944/801081730735931462/elite_bg_yellow_orange.jpg)
 
 # 🤖 Elite Tool (Discord Bot)
 > بهترین بات پابلیک فارسی زبان ساخته شده با کتابخانه دیسکورد جی اس [discordjs.guide](https://discordjs.guide)
@@ -7,9 +7,7 @@
 ## Requirements
 
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
-2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
-3. Node.js v12.0.0 or newer
+2. Node.js v12.0.0 or newer
 
 ## 🚀 Getting Started
 
