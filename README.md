@@ -1,18 +1,27 @@
-# Elite-Tool
 
-<br><br>
-**این بات چکار میکنه ؟**
-<br><br>
-این بات یکی از بهترین بات های دیسکورد بوده و طبق تصمیمی که گرفتم قرار شد که بات رو پابلیک کنم 
-<br>
-بیش از 160 کامند متنوع 
-<br>
-استاتوس و لودر حرفه ای
-<br>
-دارای دیتابیس بتر اسکولایت با لیبری کویک دی بی
-<br>
-اگه خوشتون اومد به سایت ما هم سر بزنید و مارو به دوستاتون معرفی کنید
-<br>
+![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
+
+# 🤖 Elite Tool (Discord Bot)
+> بهترین بات پابلیک فارسی زبان ساخته شده با کتابخانه دیسکورد جی اس [discordjs.guide](https://discordjs.guide)
+
+## Requirements
+
+1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
+2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
+3. Node.js v12.0.0 or newer
+
+## 🚀 Getting Started
+
+If deploying to Heroku make sure to create config variables
+
+![heroku](https://i.imgur.com/iaoUePg.png?1)
+
+```
+git clone https://github.com/Paraffin-Team/Elite-Tool.git
+cd Elite-Tool
+npm install
+```
 <br><br>
 **آموزش نصب**
 <br><br>
