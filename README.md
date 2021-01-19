@@ -9,11 +9,9 @@
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js v12.0.0 or newer
 
-## 🚀 Getting Started
+## 🚀 شروع
 
-If deploying to Heroku make sure to create config variables
-
-![heroku](https://i.imgur.com/iaoUePg.png?1)
+اگر از هاست سریع هروکو استفاده میکنید به یاد داشته باشید در این قسمت توکن را وارد کنید
 
 ```
 git clone https://github.com/Paraffin-Team/Elite-Tool.git
