@@ -1,0 +1,43 @@
+{
+  "name": "ir-Paraffin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "axios": "^0.20.0",
+    "canvas": "^2.6.1",
+    "custom-translate": "^2.2.8",
+    "discord-giveaways": "^4.2.1",
+    "discord-player": "^3.0.0-beta.1",
+    "discord.js": "^12.4.0",
+    "emojilib": "^2.4.0",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "google-play-scraper": "^8.0.2",
+    "google-tts-api": "0.0.4",
+    "hangcord": "0.0.5",
+    "lyrics-finder": "^21.4.0",
+    "mathjs": "^7.5.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.10",
+    "node-url-shortener": "^1.1.11",
+    "novelcovid": "^3.0.0",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.8",
+    "twemoji-parser": "^13.0.0",
+    "youtube-search": "^1.1.4",
+    "yt-search": "^2.3.3",
+    "ytdl-core": "^3.4.2",
+    "ytdl-core-discord": "^1.2.3"
+  }
+}
