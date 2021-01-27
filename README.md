@@ -1,7 +1,7 @@
 
-![logo](https://cdn.discordapp.com/attachments/799297746217467944/801081730735931462/elite_bg_yellow_orange.jpg)
+![logo](https://cdn.discordapp.com/attachments/799297746217467944/803874910354276382/bandicam_2021-01-26_21-58-39-528.jpg)
 
-# 🤖 Elite Tool (Discord Bot)
+# 🤖 Paraffin Toolsbox (Discord Bot)
 > بهترین بات پابلیک فارسی زبان ساخته شده با کتابخانه دیسکورد جی اس [discordjs.guide](https://discordjs.guide)
 
 ## 🔧 مورد نیاز ها
@@ -13,16 +13,16 @@
 اگر از هاست سریع هروکو استفاده میکنید به یاد داشته باشید در این قسمت توکن را وارد کنید
 
 ```
-git clone https://github.com/Paraffin-Team/Elite-Tool.git
-cd Elite-Tool
+git clone https://github.com/Paraffin-Team/Paraffin-Toolsbox.git
+cd Paraffin-Toolsboxl
 npm install
 ```
 <br><br>
 
 ## 🤝 همکاری
 
-1. [فورک سریع](https://github.com/Paraffin-Team/Elite-Tool/fork)
-2. الایت تول رو فورک کنید: `git clone https://github.com/your-username/Elite-Tool.git`
+1. [فورک سریع](https://github.com/Paraffin-Team/Paraffin-Toolsbox/fork)
+2. الایت تول رو فورک کنید: `git clone https://github.com/your-username/Paraffin-Toolsbox.git`
 3. شاخه ویژگی خود را ایجاد کنید: `git checkout -b my-new-feature`
 4. تغییرات خود را انجام دهید: `git commit -am 'Add some feature'`
 5. شاخه را پوش کنید: `git push origin my-new-feature`
