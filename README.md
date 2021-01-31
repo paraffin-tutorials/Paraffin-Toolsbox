@@ -1,6 +1,6 @@
 
-[![CodeFactor](https://www.codefactor.io/repository/github/androz2091/discordyoutubenotifier/badge)](https://www.codefactor.io/repository/github/androz2091/discordyoutubenotifier)
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)
+[![CodeFactor](https://www.codefactor.io/repository/github/Paraffin-Team/Paraffin-Toolsbox/badge)](https://www.codefactor.io/repository/github/Paraffin-Team/Paraffin-Toolsbox)
+[![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://paraffin.site)
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/androz2091)
 
 ![logo](https://cdn.discordapp.com/attachments/799297746217467944/803874910354276382/bandicam_2021-01-26_21-58-39-528.jpg)
