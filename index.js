@@ -630,38 +630,6 @@ bot.on('guildMemberRemove', async (member) => {
 }
 })
 
-bot.on("guildCreate", async  guild => {
-  const webhookClient1 = new Discord.WebhookClient("780103287285743637", "LPz10x56Tnv9nwEaem3nc05lF2a7OmvTf17od1RJo5q8Gli87OW5SRxvyhvXFVhAGyHn");
-  const newembed1 = new Discord.MessageEmbed()
-  .setDescription(`**بات به یک سرور اضاف شد <:server:780138062541226005> **`)
-  .setAuthor(`${guild.name}`, `${guild.iconURL({ dynamic: true })}`) 
-  .addField("نام سرور <:tik:780138062578712646> ", `${guild.name}`)
- 
-  .addField("آیدی سرور <:tik:780138062578712646> ", `${guild.id}`)
-  .setColor("#22a3ff")
-  webhookClient1.send({
-    username: ` Paraffin Toolsbox`,
-    avatarURL: `https://cdn.discordapp.com/attachments/752132665771294792/780457719147659275/Paraffin-tool-icon.png`,
-    embeds: [newembed1]
-  });
-});
-
-bot.on("guildDelete", guild => {
-    const webhookClient2 = new Discord.WebhookClient("780103287285743637", "LPz10x56Tnv9nwEaem3nc05lF2a7OmvTf17od1RJo5q8Gli87OW5SRxvyhvXFVhAGyHn");
-  const newembed2 = new Discord.MessageEmbed()
-  .setDescription(`**بات از یک سرور حذف شد <:serverblack:780138062822375475> **`)
-  .setAuthor(`${guild.name}`, `${guild.iconURL({ dynamic: true })}`) 
-  .addField("نام سرور <:tikblack:780138062700347392> ", `${guild.name}`)
-
-  .addField("آیدی سرور <:tikblack:780138062700347392> ", `${guild.id}`)
-  .setColor("#0e0e0e")
-  webhookClient2.send({
-    username: ` Paraffin Toolsbox`,
-    avatarURL: `https://cdn.discordapp.com/attachments/752132665771294792/780457719147659275/Paraffin-tool-icon.png`,
-    embeds: [newembed2]
-});
-});
-
 bot.on('ready', () => {
   const guild = bot.guilds.cache.get('690114196532101156')
 
