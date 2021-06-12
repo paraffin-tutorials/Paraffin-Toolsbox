@@ -2,10 +2,6 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports.run = async (bot, message, args) => {
 
-    //console.log(args[0]);// user
-    //console.log(args[1]);// role
-    //console.log(args[2]);//time
-    
     message.delete();
     
     if(!args.join(" ")){
@@ -17,5 +13,5 @@ module.exports.run = async (bot, message, args) => {
     
     module.exports.help = {
         name: "say",
-        aliases: [""]
+        aliases: ["sayme"]
     }
